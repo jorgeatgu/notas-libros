@@ -29,10 +29,11 @@ Todas las notas que tomo sobre los libros que voy leyendo.
 - Listas siempre con boliches
 - Destacar términos claves, no destacar todo
 - Los encabezameintos deben estar más cerca del texto que le sigue que del que le precede
-- Deberías de saber:  - ¿que sitio es este?
-                      - ¿en que página estoy?
-                      - ¿principales secciones del sitio?
-                      - ¿que opciones tengo?
-                      - ¿donde estoy?
-                      - ¿como busco algo?
+- Deberías de saber: 
+  - ¿que sitio es este?  
+  - ¿en que página estoy?  
+  - ¿principales secciones del sitio?  
+  - ¿que opciones tengo?  
+  - ¿donde estoy?  
+  - ¿como busco algo?  
 
