@@ -4,6 +4,8 @@ Todas las notas que tomo sobre los libros que voy leyendo.
 
 ## Como escribir bien por Jordi Colome
 
+[Enlace](https://www.amazon.es/escribir-claro-Manuales-Jordi-Colomé/dp/8497889584)
+
 - Adjetivos en cuentagotas
 - La abundancia de adjetivos hace el texto pesado
 - Adverbios de cantidad: muy, mucho, bastante...
@@ -17,6 +19,8 @@ Todas las notas que tomo sobre los libros que voy leyendo.
 
 
 ## No me hagas pensar por Streve Krug
+
+[Enlace](https://www.amazon.es/hagas-pensar-aproximación-usabilidad-Cuadernos/dp/8483222868)
 
 - Usar palabras fáciles prescindir de las rebuscadas
 - No leemos, escaneamos la web
