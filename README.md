@@ -1,2 +1,5 @@
-# notas-libros
-Todas las notas que tomo sobre los libros que leo
+# Notas
+
+Libros que he leído.
+Libros en proceso.
+Lista de deseos.
