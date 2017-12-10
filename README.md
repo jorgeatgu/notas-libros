@@ -16,8 +16,8 @@ La geometría del diseño
 
 ## Lista de deseos
 
-[DISEÑADOR/CIUDADANO](http://www.losportadoresdesuenos.com/tienda/libro/disenadorciudadano_39205)
-[Las ciudades invisible](http://www.losportadoresdesuenos.com/tienda/libro/las-ciudades-invisibles_7212)  
+[DISEÑADOR/CIUDADANO](http://www.losportadoresdesuenos.com/tienda/libro/disenadorciudadano_39205)  
+[Las ciudades invisibles](http://www.losportadoresdesuenos.com/tienda/libro/las-ciudades-invisibles_7212)  
 [MILTON GLASER. CONVERSACIONES CON PETER MAYER](http://www.losportadoresdesuenos.com/tienda/libro/milton-glaser-conversaciones-con-peter-mayer_49749)  
 [PENSAR RÁPIDO, PENSAR DESPACIO](http://www.losportadoresdesuenos.com/tienda/libro/pensar-rapido-pensar-despacio_18144)  
 [Psicología del color](https://www.amazon.es/dp/8425219779/_encoding=UTF8?coliid=I1SNFBU1F79PR5&colid=12HK5XCBRNP3R&psc=0)  
