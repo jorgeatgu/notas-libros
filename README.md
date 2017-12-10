@@ -4,8 +4,8 @@ No están todos, pero vamos a poner algo de orden en mi lectura.
 
 ## Notas sobre libros que he leído
 
-[No me hagas pensar](no-me-hagas-pensar.md)
-[Como escribir bien](no-me-hagas-pensar.md)
+[No me hagas pensar](no-me-hagas-pensar.md)  
+[Como escribir bien](como-escribir-bien.md)  
 
 ## Libros en proceso
 
@@ -16,7 +16,7 @@ La geometría del diseño
 
 ## Lista de deseos
 
-[DISEÑADOR/CIUDADANO. CUATRO TEXTOS BREVES MÁS O MENOS SOBRE DISEÑO] (http://www.losportadoresdesuenos.com/tienda/libro/disenadorciudadano_39205)
+[DISEÑADOR/CIUDADANO](http://www.losportadoresdesuenos.com/tienda/libro/disenadorciudadano_39205)
 [Las ciudades invisible](http://www.losportadoresdesuenos.com/tienda/libro/las-ciudades-invisibles_7212)  
 [MILTON GLASER. CONVERSACIONES CON PETER MAYER](http://www.losportadoresdesuenos.com/tienda/libro/milton-glaser-conversaciones-con-peter-mayer_49749)  
 [PENSAR RÁPIDO, PENSAR DESPACIO](http://www.losportadoresdesuenos.com/tienda/libro/pensar-rapido-pensar-despacio_18144)  
