@@ -5,7 +5,7 @@ No están todos, pero vamos a poner algo de orden en mi lectura.
 ## Notas sobre libros que he leído
 
 [No me hagas pensar](no-me-hagas-pensar.md)  
-[Como escribir bien](como-escribir-bien.md)
+[Como escribir bien](como-escribir-bien.md)   
 [diseñador/ciudadano](disenador-ciudadano.md)
 
 ## Libros en proceso
