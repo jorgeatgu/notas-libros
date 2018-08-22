@@ -14,7 +14,10 @@ La psicología de los objetos cotidianos
 Manual de tipografía moderna  
 Color y percepción  
 La geometría del diseño
-MILTON GLASER. CONVERSACIONES CON PETER MAYER
+
+## Lista de recomendaciones
+
+Mi lista, mía. Los que yo quiero recomendar, [aquí](https://github.com/jorgeatgu/notas-libros/blob/master/lista.md)
 
 ## Lista de deseos
 
@@ -23,7 +26,9 @@ MILTON GLASER. CONVERSACIONES CON PETER MAYER
 [Psicología del color](https://www.amazon.es/dp/8425219779/_encoding=UTF8?coliid=I1SNFBU1F79PR5&colid=12HK5XCBRNP3R&psc=0)  
 [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.es/dp/1119998956/_encoding=UTF8?coliid=IXZVEIOPWYFFE&colid=12HK5XCBRNP3R&psc=0)  
 [Las Leyes De La Simplicidad](https://www.amazon.es/dp/8497845439/_encoding=UTF8?coliid=I2DWIT4GM8XJU5&colid=12HK5XCBRNP3R&psc=0)  
-[The Best Interface is No Interface](https://www.amazon.es/dp/0133890333/_encoding=UTF8?coliid=I38DCGNC3P9D1H&colid=12HK5XCBRNP3R&psc=0)  
+[The Best Interface is No Interface](https://www.amazon.es/dp/0133890333/_encoding=UTF8?coliid=I38DCGNC3P9D1H&colid=12HK5XCBRNP3R&psc=0)
+[Roba como un artista](http://www.libreriacalamo.com/libro.php?cod=370260)
+[10 recursos para artistas, diseñadores y creativos](http://www.libreriacalamo.com/libro.php?cod=357657)
 
 
 
